@@ -1,0 +1,32 @@
+[
+  {
+    "Username": "Desk 1",
+    "Password": "Desk111",
+    "Role": "Staff",
+    "IsActive": true
+  },
+  {
+    "Username": "Desk 2",
+    "Password": "Desk.02",
+    "Role": "Staff",
+    "IsActive": true
+  },
+  {
+    "Username": "owner",
+    "Password": "119964",
+    "Role": "Owner",
+    "IsActive": true
+  },
+  {
+    "Username": "ownerbackup",
+    "Password": "11964",
+    "Role": "Owner",
+    "IsActive": true
+  },
+  {
+    "Username": "Desk 3",
+    "Password": "123",
+    "Role": "Staff",
+    "IsActive": true
+  }
+]

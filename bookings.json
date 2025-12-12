@@ -1,0 +1,376 @@
+[
+  {
+    "Name": "Gabriel",
+    "PhoneNumber": "0923251570",
+    "CheckInDate": "2025-11-12T00:00:00",
+    "CheckOutDate": "2025-11-20T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 303
+    },
+    "RoomNumber": 303,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "owner",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "hahahaha",
+    "PhoneNumber": "123456789",
+    "CheckInDate": "2025-11-12T00:00:00",
+    "CheckOutDate": "2025-11-15T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 301
+    },
+    "RoomNumber": 301,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "owner",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "trial",
+    "PhoneNumber": "123456789",
+    "CheckInDate": "2025-01-01T00:00:00",
+    "CheckOutDate": "2025-01-02T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 302
+    },
+    "RoomNumber": 302,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "owner",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "John",
+    "PhoneNumber": "09123456789",
+    "CheckInDate": "2025-11-13T00:00:00",
+    "CheckOutDate": "2025-11-20T00:00:00",
+    "RoomType": {
+      "RoomType": "Double",
+      "RoomRate": 5000,
+      "RoomNumber": 201
+    },
+    "RoomNumber": 201,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 3",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "Gabriel",
+    "PhoneNumber": "09232515170",
+    "CheckInDate": "2025-11-14T00:00:00",
+    "CheckOutDate": "2025-11-15T00:00:00",
+    "RoomType": {
+      "RoomType": "Single",
+      "RoomRate": 2500,
+      "RoomNumber": 102
+    },
+    "RoomNumber": 102,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "owner",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "Gabriel",
+    "PhoneNumber": "09232515170",
+    "CheckInDate": "2025-11-20T00:00:00",
+    "CheckOutDate": "2025-11-25T00:00:00",
+    "RoomType": {
+      "RoomType": "Double",
+      "RoomRate": 5000,
+      "RoomNumber": 203
+    },
+    "RoomNumber": 203,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "owner",
+    "CheckedInBy": "Desk 1",
+    "CheckedOutBy": "Desk 1"
+  },
+  {
+    "Name": "Adrian",
+    "PhoneNumber": "09123456789",
+    "CheckInDate": "2025-11-19T00:00:00",
+    "CheckOutDate": "2025-12-01T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 301
+    },
+    "RoomNumber": 301,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 1",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "Desk 1"
+  },
+  {
+    "Name": "Karl Bensi",
+    "PhoneNumber": "09987654321",
+    "CheckInDate": "2025-11-20T00:00:00",
+    "CheckOutDate": "2025-11-25T00:00:00",
+    "RoomType": {
+      "RoomType": "Single",
+      "RoomRate": 2500,
+      "RoomNumber": 101
+    },
+    "RoomNumber": 101,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 1",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "Desk 1"
+  },
+  {
+    "Name": "Zedric Cami",
+    "PhoneNumber": "09784512963",
+    "CheckInDate": "2025-12-01T00:00:00",
+    "CheckOutDate": "2025-12-10T00:00:00",
+    "RoomType": {
+      "RoomType": "Single",
+      "RoomRate": 2500,
+      "RoomNumber": 102
+    },
+    "RoomNumber": 102,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 1",
+    "CheckedInBy": "Desk 1",
+    "CheckedOutBy": "Desk 1"
+  },
+  {
+    "Name": "Joseph John",
+    "PhoneNumber": "09321987654",
+    "CheckInDate": "2025-11-18T00:00:00",
+    "CheckOutDate": "2025-11-30T00:00:00",
+    "RoomType": {
+      "RoomType": "Deluxe",
+      "RoomRate": 12000,
+      "RoomNumber": 401
+    },
+    "RoomNumber": 401,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 1",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "Desk 1"
+  },
+  {
+    "Name": "Marvic Tampus",
+    "PhoneNumber": "09147896325",
+    "CheckInDate": "2025-11-19T00:00:00",
+    "CheckOutDate": "2025-11-27T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 303
+    },
+    "RoomNumber": 303,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 1",
+    "CheckedInBy": "Desk 1",
+    "CheckedOutBy": "Desk 1"
+  },
+  {
+    "Name": "Luke Donque",
+    "PhoneNumber": "09852461379",
+    "CheckInDate": "2025-11-10T00:00:00",
+    "CheckOutDate": "2025-11-18T00:00:00",
+    "RoomType": {
+      "RoomType": "Double",
+      "RoomRate": 5000,
+      "RoomNumber": 202
+    },
+    "RoomNumber": 202,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 1",
+    "CheckedInBy": "Desk 1",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "Theo Soro",
+    "PhoneNumber": "09753691842",
+    "CheckInDate": "2025-11-17T00:00:00",
+    "CheckOutDate": "2025-11-26T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 302
+    },
+    "RoomNumber": 302,
+    "IsCheckedIn": true,
+    "IsCheckedOut": false,
+    "BookedBy": "owner",
+    "CheckedInBy": "Desk 1",
+    "CheckedOutBy": ""
+  },
+  {
+    "Name": "Angela",
+    "PhoneNumber": "09753698421",
+    "CheckInDate": "2025-11-01T00:00:00",
+    "CheckOutDate": "2025-11-30T00:00:00",
+    "RoomType": {
+      "RoomType": "Deluxe",
+      "RoomRate": 12000,
+      "RoomNumber": 403
+    },
+    "RoomNumber": 403,
+    "IsCheckedIn": true,
+    "IsCheckedOut": false,
+    "BookedBy": "owner",
+    "CheckedInBy": "Desk 1",
+    "CheckedOutBy": ""
+  },
+  {
+    "Name": "Ashley",
+    "PhoneNumber": "09771668248",
+    "CheckInDate": "2025-11-20T00:00:00",
+    "CheckOutDate": "2025-11-30T00:00:00",
+    "RoomType": {
+      "RoomType": "Deluxe",
+      "RoomRate": 12000,
+      "RoomNumber": 402
+    },
+    "RoomNumber": 402,
+    "IsCheckedIn": false,
+    "IsCheckedOut": false,
+    "BookedBy": "owner",
+    "CheckedInBy": "",
+    "CheckedOutBy": ""
+  },
+  {
+    "Name": "Miya",
+    "PhoneNumber": "09123456789",
+    "CheckInDate": "2023-02-14T00:00:00",
+    "CheckOutDate": "2023-02-18T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 303
+    },
+    "RoomNumber": 303,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "owner",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "Leo",
+    "PhoneNumber": "09147852369",
+    "CheckInDate": "2028-12-25T00:00:00",
+    "CheckOutDate": "2028-12-30T00:00:00",
+    "RoomType": {
+      "RoomType": "Single",
+      "RoomRate": 2500,
+      "RoomNumber": 101
+    },
+    "RoomNumber": 101,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "owner",
+    "CheckedInBy": "owner",
+    "CheckedOutBy": "owner"
+  },
+  {
+    "Name": "Layla",
+    "PhoneNumber": "09758496321",
+    "CheckInDate": "2024-02-14T00:00:00",
+    "CheckOutDate": "2024-02-16T00:00:00",
+    "RoomType": {
+      "RoomType": "Double",
+      "RoomRate": 5000,
+      "RoomNumber": 201
+    },
+    "RoomNumber": 201,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 2",
+    "CheckedInBy": "Desk 2",
+    "CheckedOutBy": "Desk 2"
+  },
+  {
+    "Name": "Piolo Pascual",
+    "PhoneNumber": "09999998888",
+    "CheckInDate": "2024-01-01T00:00:00",
+    "CheckOutDate": "2024-01-10T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 303
+    },
+    "RoomNumber": 303,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 2",
+    "CheckedInBy": "Desk 2",
+    "CheckedOutBy": "Desk 2"
+  },
+  {
+    "Name": "Theodore",
+    "PhoneNumber": "09111222333",
+    "CheckInDate": "2023-07-11T00:00:00",
+    "CheckOutDate": "2023-07-20T00:00:00",
+    "RoomType": {
+      "RoomType": "Single",
+      "RoomRate": 2500,
+      "RoomNumber": 102
+    },
+    "RoomNumber": 102,
+    "IsCheckedIn": true,
+    "IsCheckedOut": true,
+    "BookedBy": "Desk 2",
+    "CheckedInBy": "Desk 2",
+    "CheckedOutBy": "Desk 2"
+  },
+  {
+    "Name": "Casta\u00F1eda",
+    "PhoneNumber": "09232515170",
+    "CheckInDate": "2021-05-05T00:00:00",
+    "CheckOutDate": "2025-05-10T00:00:00",
+    "RoomType": {
+      "RoomType": "Single",
+      "RoomRate": 2500,
+      "RoomNumber": 101
+    },
+    "RoomNumber": 101,
+    "IsCheckedIn": false,
+    "IsCheckedOut": false,
+    "BookedBy": "owner",
+    "CheckedInBy": "",
+    "CheckedOutBy": ""
+  },
+  {
+    "Name": "Gabriel",
+    "PhoneNumber": "09232515170",
+    "CheckInDate": "2025-11-27T00:00:00",
+    "CheckOutDate": "2025-11-30T00:00:00",
+    "RoomType": {
+      "RoomType": "Suite",
+      "RoomRate": 8000,
+      "RoomNumber": 303
+    },
+    "RoomNumber": 303,
+    "IsCheckedIn": false,
+    "IsCheckedOut": false,
+    "BookedBy": "owner",
+    "CheckedInBy": "",
+    "CheckedOutBy": ""
+  }
+]

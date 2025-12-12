@@ -1,0 +1,128 @@
+[
+  {
+    "GuestName": "Gabriel",
+    "RoomNumber": 303,
+    "RoomType": "Suite",
+    "CheckOutDate": "2025-11-20T00:00:00",
+    "AmountPaid": 64000
+  },
+  {
+    "GuestName": "hahahaha",
+    "RoomNumber": 301,
+    "RoomType": "Suite",
+    "CheckOutDate": "2025-11-15T00:00:00",
+    "AmountPaid": 24000
+  },
+  {
+    "GuestName": "trial",
+    "RoomNumber": 302,
+    "RoomType": "Suite",
+    "CheckOutDate": "2025-01-02T00:00:00",
+    "AmountPaid": 8000
+  },
+  {
+    "GuestName": "John",
+    "RoomNumber": 201,
+    "RoomType": "Double",
+    "CheckOutDate": "2025-11-20T00:00:00",
+    "AmountPaid": 35000
+  },
+  {
+    "GuestName": "Gabriel",
+    "RoomNumber": 102,
+    "RoomType": "Single",
+    "CheckOutDate": "2025-11-15T00:00:00",
+    "AmountPaid": 2500
+  },
+  {
+    "GuestName": "Gabriel",
+    "RoomNumber": 101,
+    "RoomType": "Single",
+    "CheckOutDate": "2025-11-25T00:00:00",
+    "AmountPaid": 17500
+  },
+  {
+    "GuestName": "Gabriel",
+    "RoomNumber": 203,
+    "RoomType": "Double",
+    "CheckOutDate": "2025-11-25T00:00:00",
+    "AmountPaid": 25000
+  },
+  {
+    "GuestName": "Adrian",
+    "RoomNumber": 301,
+    "RoomType": "Suite",
+    "CheckOutDate": "2025-12-01T00:00:00",
+    "AmountPaid": 96000
+  },
+  {
+    "GuestName": "Karl Bensi",
+    "RoomNumber": 101,
+    "RoomType": "Single",
+    "CheckOutDate": "2025-11-25T00:00:00",
+    "AmountPaid": 12500
+  },
+  {
+    "GuestName": "Joseph John",
+    "RoomNumber": 401,
+    "RoomType": "Deluxe",
+    "CheckOutDate": "2025-11-30T00:00:00",
+    "AmountPaid": 144000
+  },
+  {
+    "GuestName": "Zedric Cami",
+    "RoomNumber": 102,
+    "RoomType": "Single",
+    "CheckOutDate": "2025-12-10T00:00:00",
+    "AmountPaid": 22500
+  },
+  {
+    "GuestName": "Marvic Tampus",
+    "RoomNumber": 303,
+    "RoomType": "Suite",
+    "CheckOutDate": "2025-11-27T00:00:00",
+    "AmountPaid": 64000
+  },
+  {
+    "GuestName": "Luke Donque",
+    "RoomNumber": 202,
+    "RoomType": "Double",
+    "CheckOutDate": "2025-11-18T00:00:00",
+    "AmountPaid": 40000
+  },
+  {
+    "GuestName": "Miya",
+    "RoomNumber": 303,
+    "RoomType": "Suite",
+    "CheckOutDate": "2023-02-18T00:00:00",
+    "AmountPaid": 32000
+  },
+  {
+    "GuestName": "Leo",
+    "RoomNumber": 101,
+    "RoomType": "Single",
+    "CheckOutDate": "2028-12-30T00:00:00",
+    "AmountPaid": 12500
+  },
+  {
+    "GuestName": "Layla",
+    "RoomNumber": 201,
+    "RoomType": "Double",
+    "CheckOutDate": "2024-02-16T00:00:00",
+    "AmountPaid": 10000
+  },
+  {
+    "GuestName": "Piolo Pascual",
+    "RoomNumber": 303,
+    "RoomType": "Suite",
+    "CheckOutDate": "2024-01-10T00:00:00",
+    "AmountPaid": 72000
+  },
+  {
+    "GuestName": "Theodore",
+    "RoomNumber": 102,
+    "RoomType": "Single",
+    "CheckOutDate": "2023-07-20T00:00:00",
+    "AmountPaid": 22500
+  }
+]
